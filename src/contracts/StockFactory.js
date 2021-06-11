@@ -1,5 +1,5 @@
 const contractData = {
-  address: '0x8C86C05A8C78DDd66c64daEbb218a1f4772E1Efa',
+  address: '0x5dAFeE009282438eD2b5a27b80B2281C027cE525',
   contractName: 'StockFactory',
   abi: [
     {
