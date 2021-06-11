@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/erc1155-stock-tokenization-front/static/css/main.856c2963.chunk.css",
-    "main.js": "/erc1155-stock-tokenization-front/static/js/main.11cf36d4.chunk.js",
-    "main.js.map": "/erc1155-stock-tokenization-front/static/js/main.11cf36d4.chunk.js.map",
+    "main.js": "/erc1155-stock-tokenization-front/static/js/main.62d7e02b.chunk.js",
+    "main.js.map": "/erc1155-stock-tokenization-front/static/js/main.62d7e02b.chunk.js.map",
     "runtime-main.js": "/erc1155-stock-tokenization-front/static/js/runtime-main.a1276262.js",
     "runtime-main.js.map": "/erc1155-stock-tokenization-front/static/js/runtime-main.a1276262.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/erc1155-stock-tokenization-front/static/css/2.4c97ca4f.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.289c7ba3.chunk.js",
     "static/css/main.856c2963.chunk.css",
-    "static/js/main.11cf36d4.chunk.js"
+    "static/js/main.62d7e02b.chunk.js"
   ]
 }
