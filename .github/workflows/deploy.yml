@@ -17,13 +17,13 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - name: Install Packages
-        run: cd tokenization && npm install
+        run: npm install
       - name: Testing
-        run: cd tokenization && npm test -- --watchAll=false --passWithNoTests
+        run: npm test -- --watchAll=false --passWithNoTests
       - name: Build page
-        run: cd tokenization && npm run build
+        run: npm run build
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./tokenization/build
+          publish_dir: ./build
